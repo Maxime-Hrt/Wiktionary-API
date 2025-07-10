@@ -14,7 +14,7 @@ A lightweight Flask-based API that provides word definitions by querying the Wik
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Maxime-Hrt/Wiktionary-API.git
 cd dict
 ```
 
